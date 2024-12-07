@@ -1,4 +1,4 @@
-* @actions/actions-runtime
+* @actions/acting-runtime
 
 /packages/artifact/   @actions/artifacts-actions
 /packages/cache/      @actions/actions-cache
